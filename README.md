@@ -2,7 +2,9 @@
 This repo will test the performance of bundlers on real world app
 
 Webpack version: 3.10.0
+
 Parcel version:  1.2.1
+
 Node version:    9.2.1
 
 # Assumptions:
